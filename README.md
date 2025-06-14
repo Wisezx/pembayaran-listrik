@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -69,3 +70,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # Pembayaran-listrik
 Aplikasi pembayaran listrik berbasis Laravel
 >>>>>>> 40b1902d1661d7e91a4d85d825c0514828f99351
+=======
+# pembayaran-listrik
+Aplikasi pembayaran listrik berbasis Laravel
+>>>>>>> c120b59097e31dca8bbf3942a153c659ee001bc7
